@@ -1,0 +1,28 @@
+{
+  "name": "festival",
+  "version": "1.0.0",
+  "description": "Proyecto con gulp y sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LairW3b/Music_festival.git"
+  },
+  "keywords": [
+    "sass",
+    "gulp."
+  ],
+  "author": "LairDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LairW3b/Music_festival/issues"
+  },
+  "homepage": "https://github.com/LairW4b/Music_festival#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.51.0"
+  }
+}
